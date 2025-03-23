@@ -1,0 +1,22 @@
+# Instagram API
+instagrapi>=1.16.30
+
+# Telegram Bot
+python-telegram-bot>=13.7
+
+# Работа с изображениями
+Pillow>=9.0.0
+
+# База данных
+SQLAlchemy>=1.4.0
+
+# Многопоточность и асинхронность
+concurrent.futures
+asyncio
+
+# Планировщик задач
+schedule>=1.1.0
+
+# Прочие утилиты
+python-dotenv>=0.19.0
+requests>=2.26.0
